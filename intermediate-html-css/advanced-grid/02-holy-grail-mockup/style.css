@@ -143,6 +143,10 @@ ul {
 
 .footer {
   background-color: #393f4d;
+    /* extra */
+  grid-column: 1 / 3;
+  display: grid;
+  justify-items: center;
 }
 
 .footer p {
